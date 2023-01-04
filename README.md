@@ -1,5 +1,5 @@
 # DH_Project_Lincoln_Papers
-Hier werden die Topic Models und der Datensatz zur Seminararbeit "Die Lincoln Papers - Eine Korpusanalyse mittels Topic-Modeling"
+Hier werden die Topic Models und der Datensatz zur Seminararbeit "Die Lincoln Papers - Eine Korpusanalyse mittels Topic-Modeling" gespeichert.
 ## Topic Models
 * [Topic Model mit 10 Topics](https://htmlpreview.github.io/?https://github.com/Bjz26/DH_Project_Lincoln_Papers/blob/main/TopicModels/ldavis_prepared_10.html)
 * [Topic Model mit 25 Topics](https://htmlpreview.github.io/?https://github.com/Bjz26/DH_Project_Lincoln_Papers/blob/main/TopicModels/ldavis_prepared_25.html)
